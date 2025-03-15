@@ -1,6 +1,5 @@
 # This is overkill for the moment, copied from the Notebook github :  https://github.com/jupyter/notebook/blob/main/.gitignore
-.vscode/*
-
+.vscode/settings.json
 
 
 *.bundle.*

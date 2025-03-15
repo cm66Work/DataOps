@@ -14,6 +14,7 @@
         "Ksize",
         "labextension",
         "lables",
+        "matplotlib",
         "mkdocs",
         "mypy",
         "nosetests",
