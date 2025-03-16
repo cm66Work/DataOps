@@ -12,4 +12,6 @@ Exports: Are for the exported csv files which hold the processed image data.
 
 Imports: Is the main folder where the Hand written data sets provided for the project are located and loaded into the project.
 
+csv files have been removed from the repo due to them being to large to upload to github.
+
 Github link: https://github.com/cm66Work/DataOps/tree/master
