@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "Angermann",
+        "annot",
         "Binarization",
         "binarize",
         "celerybeat",
@@ -27,6 +28,7 @@
         "nosetests",
         "ntitled",
         "numpy",
+        "opencv",
         "Pagliari",
         "pixi",
         "Poncino",
@@ -35,10 +37,12 @@
         "pyenv",
         "pytest",
         "ropeproject",
+        "scatterplot",
         "sciencedirect",
         "scikit",
         "scrapy",
         "sdist",
+        "seaborn",
         "Skillcate",
         "skimage",
         "Sobel",
@@ -46,6 +50,10 @@
         "spyderproject",
         "spyproject",
         "Thresholding",
-        "ystore"
+        "xlabel",
+        "xticklabels",
+        "ylabel",
+        "ystore",
+        "yticklabels"
     ]
 }
