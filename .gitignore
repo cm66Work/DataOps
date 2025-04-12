@@ -146,8 +146,6 @@ notebook/templates/*.html
 # pixi environments
 .pixi
 *.egg-info
-.vscode/settings.json
 DataOps.zip
-.vscode/settings.json
-Exports/pacFeatures.csv
-.gitignore
+.vscode/*
+Exports/*
