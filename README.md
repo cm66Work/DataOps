@@ -1,17 +1,32 @@
-Please find the link to the git repo: and will attach a zip file of the project as well. Data will be cleared from the git link to keep the commit length down, but the zip file will have the outputs I have been working with still loaded.
+# Setup
 
-To get started open the Main.ipynb file inside Jupyter notebooks to open the main project.
+## Step 1: Project Download
+### github link
+Follow the link to the github repo bellow.
+Github link: https://github.com/cm66Work/DataOps
 
-Please run the following command to install the dependencies: `pip3 install --no-cache-dir -r requirements.txt` from the local directory of the project.
+from their ether download the repo or use clone it to your system.
 
-There are three folders within the project: Imports, Exports, and Scripts.
+### zipfile
+Download and extract the zip file into a folder of your choosing.
 
-Scripts: contain all loaded and stored image data.
+## Step 2: Project Initial setup
+Open up the project in Jupiter notebooks or vs code with the Jupyter notebook extension.
 
-Exports: Are for the exported csv files which hold the processed image data.
+Open a terminal in the repository location.
 
-Imports: Is the main folder where the Hand written data sets provided for the project are located and loaded into the project.
+make sure you have python version of **3.10.12** or greater
 
-csv files have been removed from the repo due to them being to large to upload to github.
+following command inside the project to install the dependencies: `pip install --no-cache-dir -r requirements.txt` from the local directory of the project, and inside the conda environment.
 
-Github link: https://github.com/cm66Work/DataOps/tree/master
+Make sure the `Imports` folder exists inside the root directory of the project.
+
+Download the `02 - MNIST` data set file from BrightSpace.
+Extract the `mnist_combined.npz` file into the `Imports` folder inside the root directory of the project.
+
+# Project Overview
+
+Each step of the model training and data evaluation is stored within the Exports folder. This allows the project to be run in batches, reducing the number of lengthy model training re-runs required for testing and data evaluation.
+
+# Technical difficulties?
+Feel free to get in contact with at any point in time.
